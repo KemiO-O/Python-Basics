@@ -35,6 +35,7 @@ It’s all about turning simple bits of code into something that *does stuff*
 - Created simple interactive programs  
 
 Basically… turning code into a little chat 😄  
+<img width="850" height="513" alt="image" src="https://github.com/user-attachments/assets/6ec57333-5423-473e-8258-438c63dc8a7f" />
 
 ---
 
